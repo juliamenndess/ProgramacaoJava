@@ -6,7 +6,6 @@ public class resolucao {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int a, b, c;
-        int menor, medio, maior;
 
         System.out.println("Informe o primeiro número: ");
         a = in.nextInt();
