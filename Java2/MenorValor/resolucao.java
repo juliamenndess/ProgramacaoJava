@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class resolucao {
 
-    public static void MenorValor(int[]vetor){
+    public static int MenorValor(int[]vetor){
         int menor = Integer.MAX_VALUE, i;
         for(i = 0; i <= vetor.length-1; i++){
             if(vetor[i] < menor){
                 menor = vetor[i];                 
             }
         }
-        System.out.println("O menor valor do vetor é: " + menor);
+        return menor;
     }
 
     public static void main(String[] args){
@@ -19,6 +19,7 @@ public class resolucao {
 
         int[]vetor = new int[10];
         int i;
+        int recebe;
 
         //Preencher o vetor
         System.out.println("Preencha o vetor");
@@ -26,7 +27,9 @@ public class resolucao {
             vetor[i] = in.nextInt();
         }
         
-        MenorValor(vetor);
+        recebe = MenorValor(vetor);
+
+        System.out.println(recebe);
 
     }
 }
