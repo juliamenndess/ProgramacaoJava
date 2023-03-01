@@ -1,4 +1,4 @@
-package Ativade1.DivisivelPor3;
+package Java1.DivisivelPor3;
 
 import java.util.Scanner;
 

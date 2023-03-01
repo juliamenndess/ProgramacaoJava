@@ -1,4 +1,4 @@
-package Atividade2.RetornarFatorialIterativa;
+package Java2.RetornarFatorialIterativa;
 
 import java.util.Scanner;
 

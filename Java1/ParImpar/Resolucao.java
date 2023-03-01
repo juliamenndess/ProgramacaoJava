@@ -1,4 +1,4 @@
-package Ativade1.ParImpar;
+package Java1.ParImpar;
 
 import java.util.Scanner;
 

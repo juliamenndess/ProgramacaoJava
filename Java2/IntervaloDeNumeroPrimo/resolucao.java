@@ -1,4 +1,4 @@
-package Atividade2.IntervaloDeNumeroPrimo;
+package Java2.IntervaloDeNumeroPrimo;
 
 import java.util.Scanner;
 

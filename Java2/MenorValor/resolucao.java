@@ -1,4 +1,4 @@
-package Atividade2.MenorValor;
+package Java2.MenorValor;
 
 import java.util.Scanner;
 

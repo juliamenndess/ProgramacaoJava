@@ -1,4 +1,4 @@
-package Atividade2.RetornarFatorialRecursivamente;
+package Java2.RetornarFatorialRecursivamente;
 
 import java.util.Scanner;
 

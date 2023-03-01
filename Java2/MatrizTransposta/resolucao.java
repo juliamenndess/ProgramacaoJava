@@ -1,4 +1,4 @@
-package Atividade2.MatrizTransposta;
+package Java2.MatrizTransposta;
 
 import java.util.Scanner;
 

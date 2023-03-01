@@ -1,4 +1,4 @@
-package Atividade2.NumeroPrimo;
+package Java2.NumeroPrimo;
 
 import java.util.Scanner;
 

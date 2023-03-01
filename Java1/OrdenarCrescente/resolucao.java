@@ -1,4 +1,4 @@
-package Ativade1.OrdenarCrescente;
+package Java1.OrdenarCrescente;
 
 import java.util.Scanner;
 
