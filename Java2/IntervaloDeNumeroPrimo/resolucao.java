@@ -16,7 +16,6 @@ public class resolucao {
             }
             if(!naoPrimo ){
                 System.out.println(i + " ");
-                
            }
         }
     }

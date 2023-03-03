@@ -10,7 +10,6 @@ public class resolucao {
             fatorial = fatorial *i;
         }
         return fatorial;
-        
     }
     
     public static void main(String[] args){

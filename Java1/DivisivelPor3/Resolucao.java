@@ -6,7 +6,6 @@ public class Resolucao {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int i, cont1 = 0, minimo, maximo;
-        
 
         System.out.println("Informe o mínimo para um intervalo de números");
         minimo = in.nextInt();

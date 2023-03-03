@@ -6,7 +6,6 @@ public class Resolucao {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int num;
-        
 
         System.out.println("Informe um número: ");
         num = in.nextInt();

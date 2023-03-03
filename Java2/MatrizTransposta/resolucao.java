@@ -11,7 +11,6 @@ public class resolucao {
 
         int l, c; //declarando linha e coluna
         
-        
         //preenchendo a matriz
         System.out.println("Preencha a matriz: ");
         for(l = 0; l <= matrizOriginal.length-1; l++){
